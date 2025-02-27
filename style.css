@@ -544,11 +544,14 @@ footer a:hover{
 .copy{
     height: 8vh;
     background-color: #1a1a1a;
-    color: #465b52;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.copy p{
+    color: #fff;
 }
 
 /*footer end*/
