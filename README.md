@@ -2,12 +2,31 @@
 
 A multi-page clothing boutique website built with HTML, CSS and JavaScript.
 
-This project was one of my early freelance experiences in 2021, where I focused on creating a clean and responsive user interface for an online fashion store.
+This project was part of my early learning journey in web development, where I focused on understanding how to structure multi-page websites and build responsive user interfaces.
+
+---
 
 ## Tech Stack
-HTML5 • CSS3 • JavaScript
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## Pages
+The website is structured into multiple pages:
+- Home
+- Shop
+- Blog
+- About
+- Contact
+- Cart
+
+---
 
 ## Features
-- Multi-page website structure
-- Product showcase layout
-- Responsive design
+- Multi-page website architecture
+- Product listing layout
+- Basic cart page structure
+- Responsive design for different screen sizes
+- Clean UI structure using HTML and CSS
